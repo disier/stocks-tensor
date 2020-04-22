@@ -1,0 +1,23 @@
+{
+  "name": "stocks-tensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "*",
+    "clear": "*",
+    "figlet": "*",
+    "sqlite3": "*",
+    "inquirer": "*",
+    "csv-parser": "*",
+    "follow-redirects": "*",
+    "excel4node": "*",
+    "synaptic": "*"
+  }
+}
